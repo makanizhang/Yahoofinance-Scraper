@@ -1,0 +1,14 @@
+# Data Collection & APIs
+yfinance
+requests
+beautifulsoup4
+fredapi
+
+# Data Analysis & Math
+pandas
+numpy
+matplotlib
+
+# Database Connectivity
+sqlalchemy
+psycopg2-binary
